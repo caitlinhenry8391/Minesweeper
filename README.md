@@ -1,8 +1,8 @@
 # Minesweeper
-Project Title: Poker Cards
+Project Title: MineSweeper
 Author: Caitlin Henry
 Version: 1.0
-Last Updated: 3/30/2016
+Last Updated: 4/19/2016
 
 Project Overview:
 The project provides the basic implementation for a MineSweeper game in Java, as well as an automatic MineSweeper puzzle solver. 
